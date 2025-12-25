@@ -1,9 +1,9 @@
-# 🏋️ Gym-AI-Streamlit  
+# 🏋️ AI Fitness Assistant  
 **AI-Powered Personal Fitness Web Application**
 
-Gym AI Streamlit is an AI powered personal fitness web application built using **Python** and **Streamlit**. The application leverages user profile data and fitness goals to generate **personalized macros, workout plans, and nutrition recommendations** through AI.
+AI Fitness Assistant is an AI powered personal fitness web application built using **Python** and **Streamlit**. The application uses user profile data and fitness goals to generate **personalized macros, workout plans, and nutrition recommendations** through AI.
 
-This project demonstrates how AI can be integrated into a real world fitness application with proper user management, data driven logic, and a clean web interface.
+The project focuses on practical AI integration, user specific personalization, and clean web application design rather than generic fitness outputs.
 
 ---
 
@@ -21,37 +21,37 @@ This project demonstrates how AI can be integrated into a real world fitness app
 
 ### 🎯 Goal Management
 - Supports multiple fitness goals such as muscle gain, fat loss, and staying active  
-- Selected goals dynamically influence AI generated outputs  
+- Selected goals directly influence AI generated recommendations  
 
 ### 🧮 AI-Generated Macros
 - Calories, protein, fat, and carbohydrate targets are generated using AI  
-- Macros adapt based on user profile and selected goals  
-- Users can manually adjust and save values  
+- Macros adapt dynamically based on user profile and goals  
+- Users can manually adjust and save macro values  
 
 ### 🧠 AI Fitness Assistant
 - Ask natural language fitness questions  
 - Generates personalized workout and nutrition guidance  
-- Uses stored profile data and notes as context  
+- Uses stored profile data, goals, and notes as context  
 
 ### 📝 Notes and Preferences
 - Save personal workout constraints or habits  
-- Notes are used to improve AI personalization  
+- Notes are incorporated into AI responses for better personalization  
 
 ### ☁️ Live Deployment
 - Hosted on **Streamlit Cloud**  
-- Fully functional web application  
+- Fully functional web application accessible online  
 
 ---
 
-## 🧠 AI Integration
+## 🧠 How AI Is Used
 
-AI is used to dynamically analyze:
-- User health data  
+AI is used to analyze:
+- User health and body data  
 - Activity level  
-- Fitness goals  
-- Personal notes  
+- Selected fitness goals  
+- Personal notes and preferences  
 
-Based on this information, the system generates customized macros and fitness recommendations, ensuring outputs are **user specific rather than generic**.
+Based on this information, the system generates **user specific macros and fitness recommendations**, ensuring results are personalized rather than generic.
 
 ---
 
@@ -71,14 +71,14 @@ Based on this information, the system generates customized macros and fitness re
 - Full stack Python web application  
 - Real world AI driven personalization  
 - Clean and intuitive user interface  
-- Product focused design rather than a simple demo  
+- Product oriented design, not a simple demo  
 
 ---
 
 ## 📌 Future Enhancements
 
-- Workout and progress tracking  
-- Fitness data visualizations  
+- Workout history and progress tracking  
+- Fitness data visualization  
 - AI based meal planning  
 - Mobile friendly UI improvements  
 
@@ -87,5 +87,5 @@ Based on this information, the system generates customized macros and fitness re
 ## 👤 Author
 
 **Ansh Puri**  
-Software Developer  
+Software Developer 
 Focused on building AI driven applications that solve real world problems
